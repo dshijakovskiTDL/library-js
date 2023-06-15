@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "genre": "Fiction",
+      "sales": 500000000,
+      "publication_date": "1605"
+    },
+    {
+      "id": 2,
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "genre": "Fiction",
+      "sales": 200000000,
+      "publication_date": "1859"
+    },
+    {
+      "id": 3,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "sales": 150000000,
+      "publication_date": "1954"
+    },
+    {
+      "id": 4,
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "genre": "Children's literature",
+      "sales": 140000000,
+      "publication_date": "1943"
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "sales": 120000000,
+      "publication_date": "1997"
+    },
+    {
+      "id": 6,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "sales": 100000000,
+      "publication_date": "1937"
+    },
+    {
+      "id": 7,
+      "title": "And Then There Were None",
+      "author": "Agatha Christie",
+      "genre": "Mystery",
+      "sales": 100000000,
+      "publication_date": "1939"
+    },
+    {
+      "id": 8,
+      "title": "Dream of the Red Chamber",
+      "author": "Cao Xueqin",
+      "genre": "Classical Chinese literature",
+      "sales": 100000000,
+      "publication_date": "1791"
+    },
+    {
+      "id": 9,
+      "title": "The Lion, the Witch, and the Wardrobe",
+      "author": "C.S. Lewis",
+      "genre": "Fantasy",
+      "sales": 85000000,
+      "publication_date": "1950"
+    },
+    {
+      "id": 10,
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "genre": "Fantasy",
+      "sales": 80000000,
+      "publication_date": "1865"
+    },
+    {
+      "id": 11,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "sales": 65000000,
+      "publication_date": "1951"
+    },
+    {
+      "id": 12,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "sales": 65000000,
+      "publication_date": "1988"
+    },
+    {
+      "id": 13,
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "genre": "Mystery",
+      "sales": 60000000,
+      "publication_date": "2003"
+    },
+    {
+      "id": 14,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "sales": 50000000,
+      "publication_date": "1960"
+    },
+    {
+      "id": 15,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "sales": 50000000,
+      "publication_date": "1925"
+    },
+    {
+      "id": 16,
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "genre": "Fantasy",
+      "sales": 45000000,
+      "publication_date": "1950-1956"
+    },
+    {
+      "id": 17,
+      "title": "Harry Potter and the Chamber of Secrets",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "sales": 40000000,
+      "publication_date": "1998"
+    },
+    {
+      "id": 18,
+      "title": "The Outsiders",
+      "author": "S.E. Hinton",
+      "genre": "Young Adult",
+      "sales": 40000000,
+      "publication_date": "1967"
+    },
+    {
+      "id": 19,
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "genre": "Mystery",
+      "sales": 35000000,
+      "publication_date": "2005"
+    },
+    {
+      "id": 20,
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "genre": "Science Fiction",
+      "sales": 35000000,
+      "publication_date": "2008"
+    }
+  ]
+  

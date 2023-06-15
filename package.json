@@ -1,0 +1,21 @@
+{
+  "name": "library-js",
+  "version": "1.0.0",
+  "description": "A sample Node.js application built using the ES6 features of JavaScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "library",
+    "books",
+    "es6",
+    "javascript",
+    "tdl"
+  ],
+  "author": "Daniel Shijakovski",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
