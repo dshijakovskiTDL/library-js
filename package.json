@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "A sample Node.js application built using the ES6 features of JavaScript",
   "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "type": "module",
+  "scripts": {  
+    "start": "node app.js"
   },
   "keywords": [
     "library",
