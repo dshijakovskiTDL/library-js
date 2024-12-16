@@ -93,7 +93,7 @@ server.get('/:id', async (req, res) => {
     // ? Use the HOF find() to find the book by the provided id
     // * find() - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find
     const targetBook = books.find((book) => {
-        return book.id === params.id
+        return book.id.toString() === params.id
     })
 
     if (!targetBook) {
