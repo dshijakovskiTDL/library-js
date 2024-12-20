@@ -13,12 +13,12 @@ as well as functionality to add and/or remove books to/from the database.
 ---
 
 ### The database
-We will mock a database by just having a simple `books.json` file present, where we will read and write data from/to. \
+We will mock a database by just having a simple `books.json` file present, where we will read and write data from/to.
 
 ---
 
 ### Search & filter books
-To search books and filter them by a category, we can make a `GET request` to the `/search` endpoint. \
+To search books and filter them by a category, we can make a `GET request` to the `/search` endpoint.
 
 ##### Query parameters
 We may pass a query parameter with the key and value of the category we want to search & filter by:
