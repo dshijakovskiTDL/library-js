@@ -47,7 +47,7 @@ server.get('/search', async (req, res) => {
 
     const filteredBooks = books.filter((book) => {
         // ? Early error checking - see if the key (category) is a valid category
-        if (!book[key]) return
+        if (!book[key]) return false
 
         // ? Convert both values to a string in order to cover number-type values
         // ? The to-lower-case conversion is just there to make the search case-insensitive
@@ -138,12 +138,12 @@ server.post('/add', (req, res) => {
 
     // ? At this point, you need to add this book to whatever database you will
     // ? potentially be using for your project
-    // ? In our case, we won't be doing that, will will just return the book
+    // ? In our case, we won't be doing that, will will just return the book as a response
     res.status(201).json(book)
 })
 
 // ? After setting up all the handlers, we need to tell the server to
 // ? start listening to requests
 server.listen(PORT, () => {
-    console.log('THe TDL library is open for business!')
+    console.log('The TDL library is open for business!')
 })
